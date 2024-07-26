@@ -1,0 +1,45 @@
+h1, h2 {
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color:#F89406;
+}
+
+h2 {
+	color:#F89406;
+	font-size: 200%;
+}
+
+h3 {
+	color:#905d54;
+}
+
+.subTitle {
+	font-size: 185%;
+}
+
+.pyonkeeLogo {
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.site-header {
+	background-color: #E1E1E8
+}
+
+.screenCell{margin-top: 4px; margin-left: 2px; margin-right: 2px; margin-bottom: 4px}
+
+.helpScreenCell{margin-top: 10px; margin-left: 10px; margin-right: 10px}
+/*.helpScreenCell{margin-left: -100px; margin-right: -100px}*/
+.helpScreenImg{
+	width: 100%;
+}
+
+
+.centered{text-align:center;}
+
+.right{text-align:right;}
+
+.dateItem{margin-right: 10px; color: #905d54}
+
+.question{color: #905D54}
+
+.answer{margin-top: 5px; margin-bottom: 5px; color: #3e312b}
